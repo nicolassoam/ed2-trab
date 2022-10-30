@@ -1,0 +1,150 @@
+1º - 1/2 (1x)
+Linhas: 13
+
+2º - 180°c (1x)
+Linhas: 30
+
+3º - 40 (1x)
+Linhas: 30
+
+4º - asse (1x)
+Linhas: 30
+
+5º - até (1x)
+Linhas: 22
+
+6º - açúcar (1x)
+Linhas: 22
+
+7º - açúcar (1x)
+Linhas: 5
+
+8º - bata (1x)
+Linhas: 20
+
+9º - bater (1x)
+Linhas: 24
+
+10º - bem (1x)
+Linhas: 15
+
+11º - bolo (2x)
+Linhas: 1, 30
+
+12º - central (1x)
+Linhas: 28
+
+13º - cheia (1x)
+Linhas: 15
+
+14º - chá (3x)
+Linhas: 5, 7, 13
+
+15º - claras (2x)
+Linhas: 20, 26
+
+16º - colher (1x)
+Linhas: 15
+
+17º - despeje (1x)
+Linhas: 28
+
+18º - este (1x)
+Linhas: 30
+
+19º - farinha (2x)
+Linhas: 7, 24
+
+20º - fofo (1x)
+Linhas: 1
+
+21º - forma (1x)
+Linhas: 28
+
+22º - forno (1x)
+Linhas: 30
+
+23º - furar (1x)
+Linhas: 30
+
+24º - furo (1x)
+Linhas: 28
+
+25º - garfo (1x)
+Linhas: 30
+
+26º - gemas (1x)
+Linhas: 22
+
+27º - grande (1x)
+Linhas: 28
+
+28º - homogênea (1x)
+Linhas: 22
+
+29º - leite (1x)
+Linhas: 24
+
+30º - leite (1x)
+Linhas: 13
+
+31º - limpo (1x)
+Linhas: 30
+
+32º - massa (2x)
+Linhas: 22, 28
+
+33º - modo (1x)
+Linhas: 18
+
+34º - médio (1x)
+Linhas: 30
+
+35º - neve (2x)
+Linhas: 20, 26
+
+36º - obter (1x)
+Linhas: 22
+
+37º - ovos (1x)
+Linhas: 11
+
+38º - parar (1x)
+Linhas: 24
+
+39º - poucos (1x)
+Linhas: 24
+
+40º - pó (1x)
+Linhas: 15
+
+41º - receita (1x)
+Linhas: 1
+
+42º - saia (1x)
+Linhas: 30
+
+43º - sopa (2x)
+Linhas: 9, 15
+
+44º - trigo (1x)
+Linhas: 24
+
+45º - trigo (1x)
+Linhas: 7
+
+46º - untada (1x)
+Linhas: 28
+
+47º - xícara (1x)
+Linhas: 13
+
+48º - xícaras (2x)
+Linhas: 5, 7
+
+49º - último (1x)
+Linhas: 26
+
+50º - simples (1x)
+Linhas: 1
+

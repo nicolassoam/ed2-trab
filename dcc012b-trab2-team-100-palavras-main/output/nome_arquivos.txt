@@ -1,0 +1,11 @@
+/home/marialuisa/dcc012/trab2/dcc012b-trab2-team-100-palavras/input/iracema.txt
+/home/marialuisa/dcc012/trab2/dcc012b-trab2-team-100-palavras/input/orpheus.txt
+/home/marialuisa/dcc012/trab2/dcc012b-trab2-team-100-palavras/input/o_primo_bazilio.txt
+/home/marialuisa/dcc012/trab2/dcc012b-trab2-team-100-palavras/input/os_jesuistas_e_o_ensino.txt
+/home/marialuisa/dcc012/trab2/dcc012b-trab2-team-100-palavras/input/no_paiz_dos_yankees.txt
+/home/marialuisa/dcc012/trab2/dcc012b-trab2-team-100-palavras/input/triste_fim_polycarpo_quaresma.txt
+/home/marialuisa/dcc012/trab2/dcc012b-trab2-team-100-palavras/input/cinco_minutos.txt
+/home/marialuisa/dcc012/trab2/dcc012b-trab2-team-100-palavras/input/os_lusiadas.txt
+/home/marialuisa/dcc012/trab2/dcc012b-trab2-team-100-palavras/input/memorias_postumas.txt
+/home/marialuisa/dcc012/trab2/dcc012b-trab2-team-100-palavras/input/receita_de_bolo.txt
+/home/marialuisa/dcc012/trab2/dcc012b-trab2-team-100-palavras/input/dom_casmurro.txt

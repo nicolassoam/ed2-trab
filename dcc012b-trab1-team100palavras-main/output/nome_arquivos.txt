@@ -1,0 +1,11 @@
+/ice/dcc012/dcc012b-trab1-team100palavras/input/cinco_minutos.txt
+/ice/dcc012/dcc012b-trab1-team100palavras/input/no_paiz_dos_yankees.txt
+/ice/dcc012/dcc012b-trab1-team100palavras/input/orpheus.txt
+/ice/dcc012/dcc012b-trab1-team100palavras/input/triste_fim_polycarpo_quaresma.txt
+/ice/dcc012/dcc012b-trab1-team100palavras/input/receita_de_bolo.txt
+/ice/dcc012/dcc012b-trab1-team100palavras/input/iracema.txt
+/ice/dcc012/dcc012b-trab1-team100palavras/input/os_lusiadas.txt
+/ice/dcc012/dcc012b-trab1-team100palavras/input/o_primo_bazilio.txt
+/ice/dcc012/dcc012b-trab1-team100palavras/input/memorias_postumas.txt
+/ice/dcc012/dcc012b-trab1-team100palavras/input/os_jesuistas_e_o_ensino.txt
+/ice/dcc012/dcc012b-trab1-team100palavras/input/dom_casmurro.txt
